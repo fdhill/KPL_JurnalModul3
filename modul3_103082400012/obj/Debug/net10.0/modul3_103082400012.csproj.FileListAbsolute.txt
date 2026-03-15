@@ -1,0 +1,4 @@
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.GeneratedMSBuildEditorConfig.editorconfig
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.AssemblyInfoInputs.cache
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.AssemblyInfo.cs
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.csproj.CoreCompileInputs.cache
