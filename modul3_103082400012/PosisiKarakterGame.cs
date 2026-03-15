@@ -35,6 +35,7 @@ namespace modul3_103082400012
                 if (command == "w")
                 {
                     CurrentState = Posisi.Terbang;
+                    Console.WriteLine("Posisi Take Off");
                     Console.WriteLine(CurrentState);
                 }
                 if (command == "s")
@@ -49,6 +50,7 @@ namespace modul3_103082400012
                 if (command == "x")
                 {
                     CurrentState = Posisi.Jongkok;
+                    Console.WriteLine("Posisi Landing");
                     Console.WriteLine(CurrentState);
                 }
                 if (command == "s")
