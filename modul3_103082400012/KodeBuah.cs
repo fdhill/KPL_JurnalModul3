@@ -24,9 +24,9 @@ namespace modul3_103082400012
             {"Semangka", "O00"}
         };
 
-        public String getKodeBuah (String namaBuah)
+        public void getKodeBuah (String namaBuah)
         {
-            return tabelBuah[namaBuah];
+            Console.WriteLine(tabelBuah[namaBuah]);
         }
     }
 }

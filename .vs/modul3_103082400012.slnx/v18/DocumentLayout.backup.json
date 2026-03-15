@@ -1,12 +1,74 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Folder D\\kuliah\\Semester 4\\KPL\\modul3_103082400012\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5998E26F-F5E8-681C-B4D9-141B52D4A779}|modul3_103082400012\\modul3_103082400012.csproj|d:\\folder d\\kuliah\\semester 4\\kpl\\modul3_103082400012\\modul3_103082400012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998E26F-F5E8-681C-B4D9-141B52D4A779}|modul3_103082400012\\modul3_103082400012.csproj|solutionrelative:modul3_103082400012\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998E26F-F5E8-681C-B4D9-141B52D4A779}|modul3_103082400012\\modul3_103082400012.csproj|d:\\folder d\\kuliah\\semester 4\\kpl\\modul3_103082400012\\modul3_103082400012\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998E26F-F5E8-681C-B4D9-141B52D4A779}|modul3_103082400012\\modul3_103082400012.csproj|solutionrelative:modul3_103082400012\\kodebuah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5998E26F-F5E8-681C-B4D9-141B52D4A779}|modul3_103082400012\\modul3_103082400012.csproj|d:\\folder d\\kuliah\\semester 4\\kpl\\modul3_103082400012\\modul3_103082400012\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5998E26F-F5E8-681C-B4D9-141B52D4A779}|modul3_103082400012\\modul3_103082400012.csproj|solutionrelative:modul3_103082400012\\posisikaraktergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Folder D\\kuliah\\Semester 4\\KPL\\modul3_103082400012\\modul3_103082400012\\Program.cs",
+              "RelativeDocumentMoniker": "modul3_103082400012\\Program.cs",
+              "ToolTip": "D:\\Folder D\\kuliah\\Semester 4\\KPL\\modul3_103082400012\\modul3_103082400012\\Program.cs",
+              "RelativeToolTip": "modul3_103082400012\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T04:39:47.015Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodeBuah.cs",
+              "DocumentMoniker": "D:\\Folder D\\kuliah\\Semester 4\\KPL\\modul3_103082400012\\modul3_103082400012\\KodeBuah.cs",
+              "RelativeDocumentMoniker": "modul3_103082400012\\KodeBuah.cs",
+              "ToolTip": "D:\\Folder D\\kuliah\\Semester 4\\KPL\\modul3_103082400012\\modul3_103082400012\\KodeBuah.cs",
+              "RelativeToolTip": "modul3_103082400012\\KodeBuah.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T04:40:40.574Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PosisiKarakterGame.cs",
+              "DocumentMoniker": "D:\\Folder D\\kuliah\\Semester 4\\KPL\\modul3_103082400012\\modul3_103082400012\\PosisiKarakterGame.cs",
+              "RelativeDocumentMoniker": "modul3_103082400012\\PosisiKarakterGame.cs",
+              "ToolTip": "D:\\Folder D\\kuliah\\Semester 4\\KPL\\modul3_103082400012\\modul3_103082400012\\PosisiKarakterGame.cs",
+              "RelativeToolTip": "modul3_103082400012\\PosisiKarakterGame.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T04:59:18.266Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

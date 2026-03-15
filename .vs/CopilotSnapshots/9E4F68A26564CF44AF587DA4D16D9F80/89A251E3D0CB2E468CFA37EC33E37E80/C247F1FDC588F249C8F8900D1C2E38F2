@@ -1,5 +1,4 @@
 ﻿using modul3_103082400012;
-using System;
 using System.Linq.Expressions;
 
 public class MyClass
@@ -7,24 +6,18 @@ public class MyClass
     KodeBuah kodeBuah = new KodeBuah();
     PosisiKarakterGame posisiKarakterGame = new PosisiKarakterGame();
 
-    public static void Main(string[] args)
+    static void main(String[] args)
     {
         Console.WriteLine("Masukkan angka: \n 1. Kode Buah \n 2. Posisi Karakter Game");
-        if (!int.TryParse(Console.ReadLine(), out int pilihan))
-        {
-            Console.WriteLine("Input tidak valid");
-            return;
-        }
-
-        var program = new MyClass();
+        int pilihan = Int16.Parse(Console.ReadLine());
 
         switch (pilihan)
         {
             case 1:
-                program.game1();
+                // code block
                 break;
             case 2:
-                program.game2();
+                // code block
                 break;
             default:
                 Console.WriteLine("Error");
@@ -37,9 +30,9 @@ public class MyClass
         while (true)
         {
             Console.Write("Massukan nama buah untuk menemukan kode buah (type stop for closing program): ");
-            string input = Console.ReadLine();
+            String input = Console.ReadLine();
 
-            if (input != null && input.Equals("stop", StringComparison.OrdinalIgnoreCase))
+            if (input.Equals("stop"))
             {
                 return;
             }
@@ -53,9 +46,9 @@ public class MyClass
         while (true)
         {
             Console.Write("Massukan perintah untuk menggerakan karakter (type stop for closing program): ");
-            string input = Console.ReadLine();
+            String input = Console.ReadLine();
 
-            if (input != null && input.Equals("stop", StringComparison.OrdinalIgnoreCase))
+            if (input.Equals("stop"))
             {
                 return;
             }

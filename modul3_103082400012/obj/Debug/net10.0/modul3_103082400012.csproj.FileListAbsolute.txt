@@ -2,3 +2,14 @@ D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\De
 D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.AssemblyInfoInputs.cache
 D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.AssemblyInfo.cs
 D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.csproj.CoreCompileInputs.cache
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.sourcelink.json
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\bin\Debug\net10.0\modul3_103082400012.exe
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\bin\Debug\net10.0\modul3_103082400012.deps.json
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\bin\Debug\net10.0\modul3_103082400012.runtimeconfig.json
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\bin\Debug\net10.0\modul3_103082400012.dll
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\bin\Debug\net10.0\modul3_103082400012.pdb
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.dll
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\refint\modul3_103082400012.dll
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.pdb
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\modul3_103082400012.genruntimeconfig.cache
+D:\Folder D\kuliah\Semester 4\KPL\modul3_103082400012\modul3_103082400012\obj\Debug\net10.0\ref\modul3_103082400012.dll
